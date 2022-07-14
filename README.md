@@ -1,7 +1,10 @@
 # Unit Testing in Django
 This is the repository for the LinkedIn Learning course Unit Testing in Django. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Unit Testing in Django][lil-thumbnail-url] 
+
+Tests are at the heart of modern software development, and testing is a skill that should be as basic as building the applications. In this course, Leticia Portella uses an untested Django application to teach you about the tools and good practices of writing tests. Learn about Pytest, one of the most known and complete testing frameworks in Python. Explore how you can use Pytest to test a Django application, from building your first unit tests to learning how to think about what makes a good test. Review several tests you can run with Pytest and Django, including testing a GET endpoint and testing behavior when a user is authenticated. Walk through the layers of security that Pytest adds to protect you from accidents. Find out how being lazy while writing tests can be leveraged to write better tests faster. Finally, discover how to quickly create instances and use tools to avoid rewriting code. This is the ideal course to follow Leticia’s first course, Django Essential Training.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -20,15 +23,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Leticia Portella 
+                            
+Software Engineer
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/leticia-portella).
+
+[lil-course-url]: https://www.linkedin.com/learning/unit-testing-in-django
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2458000/2458000-1657572268933-16x9.jpg
